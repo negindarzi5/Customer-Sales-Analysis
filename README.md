@@ -3,6 +3,9 @@ Customer & Sales Analysis Using Microsoft Excel
 Author: Negin Darzi
 
 Project Overview
+## Dashboard Preview
+
+![Customer and Sales Analysis Dashboard](dashboard.png)
 
 This project demonstrates the use of Microsoft Excel to analyze customer and sales data, evaluate product performance, and summarize key business metrics. It focuses on transforming raw sales records into meaningful insights that can support business decision-making.
 
