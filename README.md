@@ -3,9 +3,6 @@ Customer & Sales Analysis Using Microsoft Excel
 Author: Negin Darzi
 
 Project Overview
-## Dashboard Preview
-
-![Customer and Sales Analysis Dashboard](dashboard.png)
 
 This project demonstrates the use of Microsoft Excel to analyze customer and sales data, evaluate product performance, and summarize key business metrics. It focuses on transforming raw sales records into meaningful insights that can support business decision-making.
 
@@ -38,6 +35,9 @@ Provides an overview of key performance indicators (KPIs), including:
 3. Product Analysis
 
 Identifies and compares the top 5 products based on total sales, helping highlight the best-performing products in the dataset.
+## Dashboard Preview
+
+![Customer and Sales Analysis Dashboard](dashboard.png)
 
 Tools & Techniques
 
